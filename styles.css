@@ -20,8 +20,8 @@ height:440px;
 	clear:both !important;
 	max-width:100%;
 }
-.fusion-portfolio-content {	
- 
+.fusion-portfolio-content h2{	
+ font-size:1rem !important;
 }
 .fusion-portfolio-content:after{	
 	content:"[...]";
@@ -29,8 +29,6 @@ height:440px;
 	position:absolute;
 	left:90%;
 	top:90%;
-	
-	
 }
 .nombre_curso{
 	font-size:1rem !important;
