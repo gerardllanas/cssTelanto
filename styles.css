@@ -1,0 +1,60 @@
+.logo{
+	float:left;
+	margin-right:3%;	
+	width:auto;	
+	max-width:70px;
+	margin-bottom:2%;
+}
+.fusion-image-wrapper{	
+	text-align:center; 	
+	max-height:250px;
+}
+.fusion-portfolio-content{	
+	text-align:left !important;	
+	margin-left:2%;	
+	margin-right:2%;
+	margin-top:-3% !important;	
+}
+.fusion-portfolio-content-wrapper{	
+height:440px;
+	clear:both !important;
+	max-width:100%;
+}
+.fusion-portfolio-content {	
+ 
+}
+.fusion-portfolio-content:after{	
+	content:"[...]";
+		float:left;
+	position:absolute;
+	left:90%;
+	top:90%;
+	
+	
+}
+.nombre_curso{
+	font-size:1rem !important;
+	
+}
+
+.fusion-portfolio-content p{
+	font-size:0.8rem !important;
+	float:left;
+	margin-top:5% !important;
+}
+.nombre_uni:hover{
+	color:#37507a;	
+}
+#wraper h2{
+	
+	font-size:2px !important;
+}
+.nombre_uni{				
+	overflow: hidden !important;
+	font-size:1.1rem !important;
+  white-space:nowrap; 
+  text-overflow: ellipsis; 	  
+	line-height:1.4 !important;
+	font-weight: bold !important;
+	margin-bottom:-1% !important;
+}
